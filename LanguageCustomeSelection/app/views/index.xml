@@ -1,0 +1,19 @@
+<Alloy>
+	<TabGroup class="tgb" id="tgb">
+		<Tab class="tab1" id="tab1">
+			<Require src="win_first" type="view" id="win_first"/>
+		</Tab>
+		<Tab class="tab2" id="tab2">
+			<Require src="win_second" type="view" id="win_second"/>
+		</Tab>
+		<Tab class="tab3" id="tab3">
+			<Require src="win_third" type="view" id="win_third"/>
+		</Tab>
+		<Tab class="tab4" id="tab4">
+			<Require src="win_fourth" type="view" id="win_fourth"/>
+		</Tab>
+		<Tab class="tab5" id="tab5">
+			<Require src="win_fifth" type="view" id="win_fifth"/>
+		</Tab>
+	</TabGroup>
+</Alloy>

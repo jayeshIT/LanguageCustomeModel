@@ -1,0 +1,30 @@
+<Alloy>
+	<Window class="container">
+		<TableView id="table">
+			<TableViewSection id="English" headerTitle="English">
+				<TableViewRow title="English">
+
+					<Switch right="10" id="EnSwitch" platform="android"/>
+					<ImageView right="10" id="EnSwitch" platform="ios"/>
+
+				</TableViewRow>
+			</TableViewSection>
+			<TableViewSection id="Dutch" headerTitle="Dutch">
+				<TableViewRow title="Dutch" >
+
+					<Switch right="10" id="NlSwitch" platform="android"/>
+					<ImageView right="10"  id="NlSwitch" platform="ios"/>
+
+				</TableViewRow>
+			</TableViewSection>
+			<TableViewSection id="Portugese" headerTitle="Portugese">
+				<TableViewRow title="Brazil">
+
+					<Switch right="10" id="BrSwitch" platform="android"/>
+					<ImageView right="10" id="BrSwitch" platform="ios"/>
+
+				</TableViewRow>
+			</TableViewSection>
+		</TableView>
+	</Window>
+</Alloy>

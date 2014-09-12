@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="HOME_TAB_TITLE1">Home</string>
+	<string name="HOME_TAB_TITLE2">News</string>
+	<string name="HOME_TAB_TITLE3">Agenda</string>
+	<string name="HOME_TAB_TITLE4">More</string>
+	<string name="HOME_TAB_TITLE5">Setting</string>
+</resources>

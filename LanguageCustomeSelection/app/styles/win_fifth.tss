@@ -1,0 +1,29 @@
+"#EnSwitch[platform=android]":
+{
+	style: Ti.UI.Android.SWITCH_STYLE_CHECKBOX
+},
+"#NlSwitch[platform=android]":
+{
+	style: Ti.UI.Android.SWITCH_STYLE_CHECKBOX
+},
+"#BrSwitch[platform=android]":
+{
+	style: Ti.UI.Android.SWITCH_STYLE_CHECKBOX
+},
+
+"#EnSwitch[platform=ios]":
+{
+	height: 30,
+	width: 30
+},
+"#NlSwitch[platform=ios]":
+{
+	height: 30,
+	width: 30
+},
+"#BrSwitch[platform=ios]":
+{
+	height: 30,
+	width: 30
+}
+

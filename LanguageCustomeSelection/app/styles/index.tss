@@ -1,0 +1,32 @@
+"#tgb":{
+	navBarHidden: true,
+	exitOnClose: true,
+	tabsBackgroundColor: 'black'
+},
+".tab1":
+{
+	icon: "/home.png"
+},
+".tab2":
+{
+	icon: "/agenda.png"
+},
+
+".tab3":
+{
+	icon: "/news.png"
+},
+
+".tab4":
+{
+	icon: "/agenda.png"
+},
+
+".tab5":
+{
+	icon: "/more.png"
+}
+
+
+
+
